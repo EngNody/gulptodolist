@@ -1,0 +1,24 @@
+{
+  "name": "gulptodolist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-livereload": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-live-server": "^0.0.31",
+    "serve-static": "^1.15.0",
+    "static-server": "^2.2.1"
+  }
+}
